@@ -121,6 +121,8 @@ async function connectToMongo() {
     isMongoConnected = false;
     mongoConnectionError = err.message;
     console.warn('[MongoDB] Connection failed, using local JSON fallback:', err.message);
+    // Auto-retry connection every 10 seconds
+    setTimeout(connectToMongo, 10000);
   }
 }
 
