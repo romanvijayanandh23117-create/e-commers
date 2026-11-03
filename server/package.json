@@ -1,0 +1,21 @@
+{
+  "name": "smartbiz-backend",
+  "version": "1.0.0",
+  "description": "SmartBiz E-Commerce Backend API powered by Express & MongoDB",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^18.0.9",
+    "express": "^4.21.0",
+    "mongoose": "^9.11.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
+

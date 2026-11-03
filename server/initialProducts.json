@@ -1,0 +1,227 @@
+[
+  {
+    "id": "prod-001",
+    "name": "AcousticPro ANC Wireless Headphones with 40H Playtime",
+    "slug": "acousticpro-anc-wireless-headphones",
+    "description": "Engineered for audiophiles and remote workers alike. The AcousticPro features hybrid Active Noise Cancellation (ANC) with 3 custom modes, custom-tuned 40mm titanium diaphragm drivers, and plush memory foam protein leather ear cushions. Enjoy crystal-clear calling with dual AI beamforming microphones and low latency gaming mode.",
+    "shortDescription": "Hybrid Active Noise Cancellation with dual AI mics, 40-hour battery, and fast USB-C charge.",
+    "price": 4999,
+    "originalPrice": 8999,
+    "discountPercentage": 44,
+    "rating": 4.8,
+    "reviewCount": 342,
+    "category": "Electronics & Audio",
+    "brand": "SonicWave India",
+    "sku": "SW-ANC-401",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "inStock": true,
+    "stockCount": 18,
+    "isFeatured": true,
+    "isBestseller": true,
+    "isDeal": true,
+    "specifications": {
+      "Driver Size": "40mm Titanium Dynamic Drivers",
+      "Noise Cancellation": "Hybrid Active ANC (-38dB)",
+      "Battery Life": "40 Hours (ANC ON)",
+      "Bluetooth Version": "5.3 with Multipoint Connect"
+    },
+    "features": [
+      "Industry-leading Hybrid Active Noise Cancellation up to 38dB",
+      "Multi-point Bluetooth 5.3 pairs simultaneously to phone and laptop",
+      "40-hour marathon battery with 10-minute Type-C QuickCharge"
+    ],
+    "tags": ["headphones", "bluetooth", "audio", "anc", "wireless"]
+  },
+  {
+    "id": "prod-002",
+    "name": "AeroSync Ultrawatch 2 AMOLED 1.96\" Display with Bluetooth Calling",
+    "slug": "aerosync-ultrawatch-2-amoled",
+    "description": "Transform your daily productivity and fitness tracking with the AeroSync Ultrawatch 2. Showcasing an ultra-bright 1.96\" Super AMOLED display with 1000 nits peak brightness, aerospace-grade titanium alloy bezel, built-in dual-satellite GPS, and continuous heart rate, SpO2, and sleep tracking.",
+    "shortDescription": "1.96\" Super AMOLED display, Bluetooth calling, SpO2 & ECG sensor, 7-day battery life.",
+    "price": 3499,
+    "originalPrice": 6999,
+    "discountPercentage": 50,
+    "rating": 4.7,
+    "reviewCount": 512,
+    "category": "Smart Wearables & Watches",
+    "brand": "AeroSync",
+    "sku": "AS-WATCH-02",
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "inStock": true,
+    "stockCount": 24,
+    "isFeatured": true,
+    "isBestseller": true,
+    "isTrending": true,
+    "specifications": {
+      "Display": "1.96\" Super AMOLED 410x502 px (1000 nits)",
+      "Water Resistance": "IP68 & 5ATM Swimming Proof"
+    },
+    "features": [
+      "Crystal-clear Bluetooth calling with noise-canceling mic",
+      "Always-On AMOLED display with 150+ customizable watch faces"
+    ],
+    "tags": ["smartwatch", "fitness", "amoled", "calling"]
+  },
+  {
+    "id": "prod-003",
+    "name": "LuminaSmart RGB Ambient Desk & Floor Lamp with Alexa/Google Sync",
+    "slug": "luminasmart-rgb-ambient-lamp",
+    "description": "Elevate your interior lighting with 16 million colors and tunable warm-to-cool white balance. Designed in a minimalist Nordic cylindrical silhouette with matte aluminum body.",
+    "shortDescription": "16 Million RGB colors, voice control with Alexa/Google, music sync mode.",
+    "price": 2199,
+    "originalPrice": 3999,
+    "discountPercentage": 45,
+    "rating": 4.6,
+    "reviewCount": 189,
+    "category": "Smart Home & Living",
+    "brand": "LuminaTech",
+    "sku": "LT-LMP-90",
+    "images": [
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "inStock": true,
+    "stockCount": 15,
+    "isNewArrival": true,
+    "isDeal": true,
+    "specifications": {
+      "Power": "18 Watts LED",
+      "Connectivity": "Wi-Fi 2.4GHz + Bluetooth"
+    },
+    "features": ["16 Million dynamic colors", "Music visualization mode"],
+    "tags": ["smart home", "lighting", "rgb"]
+  },
+  {
+    "id": "prod-004",
+    "name": "Artisan Crafted Full-Grain Italian Leather Weekender Duffel Bag",
+    "slug": "artisan-leather-weekender-duffel-bag",
+    "description": "Handmade by master artisans using vegetable-tanned full-grain top leather that develops a gorgeous, rich patina over time.",
+    "shortDescription": "Full-grain vegetable-tanned leather, waterproof shoe pocket, brass hardware.",
+    "price": 6499,
+    "originalPrice": 11999,
+    "discountPercentage": 46,
+    "rating": 4.9,
+    "reviewCount": 124,
+    "category": "Fashion & Lifestyle",
+    "brand": "Kavach Leathercraft",
+    "sku": "KL-DUF-TAN",
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "inStock": true,
+    "stockCount": 8,
+    "isNewArrival": true,
+    "specifications": {
+      "Material": "100% Full-Grain Vegetable-Tanned Leather",
+      "Volume": "38 Liters"
+    },
+    "features": ["Cabin approved size", "Ventilated shoe pocket"],
+    "tags": ["leather", "bag", "travel"]
+  },
+  {
+    "id": "prod-005",
+    "name": "BrewMaster Precision Italian Espresso Machine with Milk Steamer",
+    "slug": "brewmaster-precision-espresso-machine",
+    "description": "Bring the cafe experience to your countertop. The BrewMaster delivers professional 20-bar Italian ULKA pump pressure and thermoblock heating.",
+    "shortDescription": "20-bar Italian pump pressure, rapid thermoblock heater, stainless steam wand.",
+    "price": 11499,
+    "originalPrice": 18999,
+    "discountPercentage": 39,
+    "rating": 4.8,
+    "reviewCount": 215,
+    "category": "Kitchen & Gourmet",
+    "brand": "BrewCraft",
+    "sku": "BC-ESP-20",
+    "images": [
+      "/images/products/brewmaster-espresso.jpg",
+      "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "inStock": true,
+    "stockCount": 11,
+    "isBestseller": true,
+    "isDeal": true,
+    "specifications": {
+      "Pump": "20 Bar Italian Pump",
+      "Capacity": "1.5 Liters"
+    },
+    "features": ["Authentic 20-bar extraction", "Commercial steam wand"],
+    "tags": ["coffee", "espresso", "kitchen"]
+  },
+  {
+    "id": "prod-013",
+    "name": "StairMaster 8Gx Commercial Revolving Stair Climber Stepmill",
+    "slug": "stairmaster-8gx-commercial-revolving-stair-climber",
+    "description": "The pinnacle of commercial fitness equipment. The StairMaster 8Gx Commercial Revolving Stair Climber delivers superior lower body conditioning and high-intensity cardio training. Features a heavy-duty steel frame, smooth revolving stairs with non-slip tread, an intuitive 15.6-inch HD touchscreen console with virtual trails and workout metrics.",
+    "shortDescription": "Commercial revolving stair climber with 15.6\" HD touchscreen console & multi-grip ergonomic handles.",
+    "price": 540000,
+    "originalPrice": 600000,
+    "discountPercentage": 10,
+    "rating": 4.9,
+    "reviewCount": 42,
+    "category": "Sports & Activewear",
+    "brand": "StairMaster",
+    "sku": "SM-8GX-COMM",
+    "images": [
+      "/images/products/stairmaster-climber.jpg"
+    ],
+    "inStock": true,
+    "stockCount": 6,
+    "isFeatured": true,
+    "isBestseller": true,
+    "isDeal": true,
+    "isNewArrival": true,
+    "specifications": {
+      "Console": "15.6\" HD OpenHub Touchscreen",
+      "Resistance Levels": "20 Electronically Controlled Levels",
+      "Max User Weight": "181 kg (400 lbs)"
+    },
+    "features": [
+      "Commercial grade revolving stair climber engineered for elite cardio",
+      "15.6\" HD touchscreen console with interactive workout programs",
+      "Complimentary white-glove doorstep delivery and technician assembly"
+    ],
+    "tags": ["sports", "fitness", "gym", "cardio", "stairmaster", "stepmill"]
+  },
+  {
+    "id": "prod-014",
+    "name": "Horizon Fitness 7.0AT Studio Smart Motorized Treadmill",
+    "slug": "horizon-fitness-7-0at-studio-smart-motorized-treadmill",
+    "description": "Engineered for high-intensity studio workouts and endurance runners. The Horizon Fitness 7.0AT Treadmill features a powerful 3.0 CHP rapid-sync motor, 3-zone Variable Response Cushioning deck to protect joints, and QuickDial wheel controls for effortless speed and incline adjustments.",
+    "shortDescription": "3.0 CHP motor, Variable Response 3-zone cushioning, QuickDial controls & hydraulic folding.",
+    "price": 21999,
+    "originalPrice": 69999,
+    "discountPercentage": 69,
+    "rating": 4.8,
+    "reviewCount": 136,
+    "category": "Sports & Activewear",
+    "brand": "Horizon Fitness",
+    "sku": "HZ-70AT-TRD",
+    "images": [
+      "/images/products/horizon-treadmill.png"
+    ],
+    "inStock": true,
+    "stockCount": 14,
+    "isFeatured": true,
+    "isBestseller": true,
+    "isDeal": true,
+    "isNewArrival": true,
+    "specifications": {
+      "Motor": "3.0 CHP Continuous-Duty Motor",
+      "Speed Range": "0.8 - 20 km/h",
+      "Incline Range": "0 - 15% Power Incline",
+      "Running Surface": "20\" x 60\" Cushioning Deck",
+      "Max User Weight": "147 kg (325 lbs)"
+    },
+    "features": [
+      "QuickDial controls allow rapid changes to speed and incline",
+      "FeatherLight hydraulic folding frame for compact storage",
+      "Bluetooth FTMS connects to Zwift, Peloton & training apps"
+    ],
+    "tags": ["sports", "fitness", "treadmill", "running", "gym"]
+  }
+]
+

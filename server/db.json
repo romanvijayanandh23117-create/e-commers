@@ -1,0 +1,245 @@
+{
+  "products": [
+    {
+      "id": "prod-001",
+      "name": "AcousticPro ANC Wireless Headphones with 40H Playtime",
+      "slug": "acousticpro-anc-wireless-headphones",
+      "price": 4999,
+      "originalPrice": 8999,
+      "discountPercentage": 44,
+      "rating": 4.8,
+      "reviewCount": 342,
+      "category": "Electronics & Audio",
+      "brand": "SonicWave India",
+      "sku": "SW-ANC-401",
+      "images": [
+        "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=1000&auto=format&fit=crop"
+      ],
+      "inStock": true,
+      "stockCount": 18,
+      "isFeatured": true,
+      "isBestseller": true
+    },
+    {
+      "id": "prod-002",
+      "name": "AeroSync Ultrawatch 2 AMOLED 1.96\" Display with Bluetooth Calling",
+      "slug": "aerosync-ultrawatch-2-amoled",
+      "price": 3499,
+      "originalPrice": 6999,
+      "discountPercentage": 50,
+      "rating": 4.7,
+      "reviewCount": 512,
+      "category": "Smart Wearables & Watches",
+      "brand": "AeroSync",
+      "sku": "AS-WATCH-02",
+      "images": [
+        "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=1000&auto=format&fit=crop"
+      ],
+      "inStock": true,
+      "stockCount": 24,
+      "isFeatured": true,
+      "isBestseller": true
+    },
+    {
+      "id": "prod-003",
+      "name": "LuminaSmart RGB Ambient Desk & Floor Lamp with Alexa/Google Sync",
+      "slug": "luminasmart-rgb-ambient-lamp",
+      "price": 2199,
+      "originalPrice": 3999,
+      "discountPercentage": 45,
+      "rating": 4.6,
+      "reviewCount": 189,
+      "category": "Smart Home & Living",
+      "brand": "LuminaTech",
+      "sku": "LT-LMP-90",
+      "images": [
+        "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?q=80&w=1000&auto=format&fit=crop"
+      ],
+      "inStock": true,
+      "stockCount": 15,
+      "isNewArrival": true
+    },
+    {
+      "id": "prod-004",
+      "name": "Artisan Crafted Full-Grain Italian Leather Weekender Duffel Bag",
+      "slug": "artisan-leather-weekender-duffel-bag",
+      "price": 6499,
+      "originalPrice": 11999,
+      "discountPercentage": 46,
+      "rating": 4.9,
+      "reviewCount": 124,
+      "category": "Fashion & Lifestyle",
+      "brand": "Kavach Leathercraft",
+      "sku": "KL-DUF-TAN",
+      "images": [
+        "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=1000&auto=format&fit=crop"
+      ],
+      "inStock": true,
+      "stockCount": 8,
+      "isNewArrival": true
+    },
+    {
+      "id": "prod-005",
+      "name": "BrewMaster Precision Italian Espresso Machine with Milk Steamer",
+      "slug": "brewmaster-precision-espresso-machine",
+      "price": 11499,
+      "originalPrice": 18999,
+      "discountPercentage": 39,
+      "rating": 4.8,
+      "reviewCount": 215,
+      "category": "Kitchen & Gourmet",
+      "brand": "BrewCraft",
+      "sku": "BC-ESP-20",
+      "images": [
+        "/images/products/brewmaster-espresso.jpg",
+        "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?q=80&w=1000&auto=format&fit=crop"
+      ],
+      "inStock": true,
+      "stockCount": 11,
+      "isBestseller": true
+    },
+    {
+      "id": "prod-013",
+      "name": "StairMaster 8Gx Commercial Revolving Stair Climber Stepmill",
+      "slug": "stairmaster-8gx-commercial-revolving-stair-climber",
+      "description": "Commercial grade revolving stair climber with 15.6\" HD touchscreen console & multi-grip ergonomic handles.",
+      "price": 540000,
+      "originalPrice": 600000,
+      "discountPercentage": 10,
+      "rating": 4.9,
+      "reviewCount": 42,
+      "category": "Sports & Activewear",
+      "brand": "StairMaster",
+      "sku": "SM-8GX-COMM",
+      "images": [
+        "/images/products/stairmaster-climber.jpg"
+      ],
+      "inStock": true,
+      "stockCount": 6,
+      "isFeatured": true,
+      "isBestseller": true,
+      "isDeal": true,
+      "isNewArrival": true
+    },
+    {
+      "id": "prod-014",
+      "name": "Horizon Fitness 7.0AT Studio Smart Motorized Treadmill",
+      "slug": "horizon-fitness-7-0at-studio-smart-motorized-treadmill",
+      "description": "3.0 CHP motor, Variable Response 3-zone cushioning, QuickDial controls & hydraulic folding.",
+      "price": 21999,
+      "originalPrice": 69999,
+      "discountPercentage": 69,
+      "rating": 4.8,
+      "reviewCount": 136,
+      "category": "Sports & Activewear",
+      "brand": "Horizon Fitness",
+      "sku": "HZ-70AT-TRD",
+      "images": [
+        "/images/products/horizon-treadmill.png"
+      ],
+      "inStock": true,
+      "stockCount": 14,
+      "isFeatured": true,
+      "isBestseller": true,
+      "isDeal": true,
+      "isNewArrival": true
+    }
+  ],
+  "orders": [
+    {
+      "userId": "user-demo-1",
+      "items": [
+        {
+          "productId": "prod-001",
+          "productName": "AcousticPro ANC Wireless Headphones with 40H Playtime",
+          "productImage": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=1000&auto=format&fit=crop",
+          "price": 4999,
+          "quantity": 1
+        },
+        {
+          "productId": "prod-005",
+          "productName": "BrewMaster Precision Italian Espresso Machine with Milk Steamer",
+          "productImage": "/images/products/brewmaster-espresso.jpg",
+          "price": 11499,
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "fullName": "Vijay Anand",
+        "phoneNumber": "91+ 9443221828",
+        "email": "vijay.anand@example.com",
+        "streetAddress": "Flat 402, Green Glen Layout, Bellandur",
+        "apartment": "Tower B, Silicon Residency",
+        "city": "salem",
+        "state": "tamilnadu",
+        "pincode": "636455"
+      },
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "subtotal": 16498,
+      "discount": 0,
+      "shippingFee": 0,
+      "tax": 825,
+      "total": 17323,
+      "status": "pending",
+      "trackingNumber": "TRK-BD-9475852",
+      "estimatedDelivery": "2-3 Business Days",
+      "id": "ord-912222",
+      "orderNumber": "SB-912222",
+      "createdAt": "2026-11-03T07:48:57.856Z",
+      "statusHistory": [
+        {
+          "status": "pending",
+          "timestamp": "2026-11-03T07:48:57.856Z",
+          "note": "Order placed successfully via COD"
+        }
+      ]
+    },
+    {
+      "id": "ord-849201",
+      "orderNumber": "SB-849201",
+      "userId": "user-demo-1",
+      "items": [
+        {
+          "productId": "prod-001",
+          "productName": "AcousticPro ANC Wireless Headphones with 40H Playtime",
+          "productImage": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=400&auto=format&fit=crop",
+          "price": 4999,
+          "quantity": 1
+        },
+        {
+          "productId": "prod-012",
+          "productName": "UltraFit Insulated Stainless Steel Gym Water Bottle 1000ml",
+          "productImage": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?q=80&w=400&auto=format&fit=crop",
+          "price": 899,
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "fullName": "Vijay Anand",
+        "phoneNumber": "+91 80725 45558",
+        "email": "vijay.anand@example.com",
+        "streetAddress": "Flat 402, Green Glen Layout, Bellandur",
+        "apartment": "Tower B, Silicon Residency",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560103",
+        "isDefault": true
+      },
+      "paymentMethod": "upi",
+      "paymentStatus": "paid",
+      "subtotal": 5898,
+      "discount": 500,
+      "shippingFee": 0,
+      "tax": 270,
+      "total": 5668,
+      "status": "shipped",
+      "trackingNumber": "TRK-BD-8492014",
+      "estimatedDelivery": "Delivered in 2 Days",
+      "createdAt": "2026-10-27T10:15:00Z"
+    }
+  ],
+  "newsletter": [
+    "vijay.anand@example.com"
+  ]
+}

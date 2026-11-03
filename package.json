@@ -1,0 +1,45 @@
+{
+  "name": "smartbiz-ecommerce",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "concurrently \"node server/index.js\" \"vite\"",
+    "dev": "concurrently \"node server/index.js\" \"vite\"",
+    "dev:frontend": "vite",
+    "dev:backend": "node server/index.js",
+    "server": "node server/index.js",
+    "start:backend": "node server/index.js",
+    "build:frontend": "tsc && vite build",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.9.3",
+    "clsx": "^2.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^18.0.9",
+    "express": "^4.21.0",
+    "lucide-react": "^0.441.0",
+    "mongoose": "^9.11.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2",
+    "tailwind-merge": "^2.5.2"
+  },
+  "devDependencies": {
+    "@types/canvas-confetti": "^1.9.0",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.16.5",
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.20",
+    "concurrently": "^8.2.2",
+    "postcss": "^8.4.45",
+    "tailwindcss": "^3.4.11",
+    "typescript": "^5.5.3",
+    "vite": "^5.4.3"
+  }
+}
