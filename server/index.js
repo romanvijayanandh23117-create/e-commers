@@ -38,7 +38,10 @@ app.use(
   })
 );
 app.use(express.json());
-app.use('/images', express.static(path.join(__dirname, '../public/images')));
+const staticImagesDir = fs.existsSync(path.join(__dirname, 'public/images'))
+  ? path.join(__dirname, 'public/images')
+  : path.join(__dirname, '../public/images');
+app.use('/images', express.static(staticImagesDir));
 
 // Track DB state
 let isMongoConnected = false;
